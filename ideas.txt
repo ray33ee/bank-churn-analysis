@@ -1,0 +1,8 @@
+- Look at overall accuacy but also look at true positive accuracy 
+- LGBM has the highest accuracy BUT CNN has the highest true positive accuracy AND it outputs a confidence value not just a 1 or 0 result
+- Talk of the obvious difference in age skew by churn, churned customers tend to skew older
+- Talk about the correlation between age and churn, which backs up what we see in skew
+- Talk about difference in no. of products for churned and not churned, not churned customers seem to have bought more products
+- Talk about correlation between no. of products and churn which backs up what we see in histogram
+- Talk about relationship between customer activity and churn (refer to bar charts and correlation matrix)
+- Talk about false positives (resulting in unnecessarily giving customers promotional products) and false negatives (resulting in customers who might be likely to leave not being offered promotional products)
